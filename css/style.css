@@ -1,11 +1,10 @@
 /* ============ Variable ========== */
 :root{
-    --primary: #339B75;
+    --primary: #6edb15;
     --grey: #F4F7F9;
     --white: #FFF;
     --font: rgb(1 18 12 / 60%);
 }
-
 /* ========== Common CSS ======== */
 *{
     margin: 0;
