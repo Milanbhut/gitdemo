@@ -1,0 +1,16 @@
+Container = 1140px
+
+Primary Color = #339B75 (Green)
+White = #FFF
+Grey = #F4F7F9
+Font Color = #01120C
+
+Font Family = Google sans
+
+Button Border Radius = 30px
+
+Section Spacing = 130px 0px
+
+Banner Heading = 60px
+
+Section Heading = 35px
